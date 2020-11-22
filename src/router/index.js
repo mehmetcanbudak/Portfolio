@@ -1,7 +1,7 @@
 import Vue from 'vue'
 import VueRouter from 'vue-router'
 import Home from '../views/Home.vue'
-import TwitterClone from '../views/TwitterClone'
+import NotFound from '../views/NotFound'
 import MovieApi from '../views/MovieApi'
 import DiscogsApi from '../views/DiscogsApi'
 import GiphyApi from '../views/GiphyApi'
@@ -17,9 +17,9 @@ const routes = [
     component: Home
   },
   {
-    path: '/twitter_clone',
-    name: 'Twitter Clone',
-    component: TwitterClone
+    path: '/notFound',
+    name: 'NotFound',
+    component: NotFound
   },
   {
     path: '/movie_api',

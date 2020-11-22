@@ -23,7 +23,7 @@
             <router-link :to="{ name: 'Movie API' }">Movie Api</router-link> |
             <router-link :to="{ name: 'Discogs API' }">Discogs Api</router-link> |
             <router-link :to="{ name: 'Giphy API' }">Giphy Api</router-link> |
-            <router-link :to="{ name: 'Twitter Clone' }">Twitter Clone</router-link> |
+            <router-link :to="{ name: 'NotFound' }">NotFound</router-link> |
             <router-link :to="{ name: 'Etc' }">Etc</router-link> |
             <router-link :to="{ name: 'Kdn' }">Kdn</router-link> |
           </div>

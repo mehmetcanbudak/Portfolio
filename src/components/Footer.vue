@@ -11,8 +11,10 @@ export default {
 </script>
 
 <style lang="css">
-footer2 {
-  position: absolute;
+footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
   bottom: 0;
   width: 100%;
   height: 2.5rem;            /* Footer height */

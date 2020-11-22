@@ -24,10 +24,15 @@ export default {
 
 <style scoped lang="scss">
 #banner {
+  display: flex;
+  //display: grid;
+  flex-direction: column;
   text-align: center;
+  //grid-template-rows: auto;
   color: #2c3e50;
-  margin-top: 60px;
-  margin-bottom: 60px;
+  height: 85vh;
+  justify-content: center;
+  align-items: center;
 }
 
 h1,
@@ -44,7 +49,7 @@ ul {
 
 li {
   display: inline-block;
-  margin: 0 10px;
+  //margin: 0 10px;
   font-weight: bolder;
 
 }
