@@ -20,19 +20,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b6859b0c-2a8e-46cc-a162-459769bc997e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/assets/Scarecrow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/NotFound.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Footer.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Footer.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/enstantane-dark.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Navbar.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navbar.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/router/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/views/Banner.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/Banner.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/TwitterClone.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/Etc.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/Etc.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/Home.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/NotFound.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/NotFound.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -65,7 +71,8 @@
       <option name="presentableId" value="Default" />
       <updated>1606073465649</updated>
       <workItem from="1606073469562" duration="428000" />
-      <workItem from="1606073952815" duration="1695000" />
+      <workItem from="1606073952815" duration="1759000" />
+      <workItem from="1606132337108" duration="4896000" />
     </task>
     <servers />
   </component>
@@ -82,8 +89,17 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="300" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606134500496">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="300" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1606134500496" />
+    <state x="512" y="221" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1606134900102">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="512" y="221" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1606134900102" />
     <state x="383" y="94" key="SettingsEditor" timestamp="1606075174423">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>

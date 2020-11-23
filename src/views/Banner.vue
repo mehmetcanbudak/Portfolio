@@ -1,6 +1,6 @@
 <template>
   <div id="banner">
-    <img src="../assets/logo.png" />
+<!--    <img src="../assets/logo.png" />-->
     <h1>{{ msg }}</h1>
     <h2>Social Links</h2>
     <ul>
@@ -24,12 +24,13 @@ export default {
 
 <style scoped lang="scss">
 #banner {
+  background-color: #000000;
   display: flex;
   //display: grid;
   flex-direction: column;
   text-align: center;
   //grid-template-rows: auto;
-  color: #2c3e50;
+  color: white;
   height: 85vh;
   justify-content: center;
   align-items: center;

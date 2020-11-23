@@ -44,6 +44,7 @@ export default {
 
 <style scoped>
 * {
+  background-color: white;
   box-sizing: border-box;
   font: inherit;
   color: inherit;
